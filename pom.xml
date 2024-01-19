@@ -124,7 +124,7 @@
 		<repository>
 			<id>github</id>
 			<name>GitHub prashantsingh34 Apache Maven Packages</name>
-			<url>https://maven.pkg.github.com/prashantsingh34/demo</url>
+			<url>https://maven.pkg.github.com/prashantsingh34/Demo_Git_action</url>
 		</repository>
 	</distributionManagement>
 </project>
